@@ -1,0 +1,16 @@
+.main-body{
+    display: block;
+    margin: 200px;
+    background-image: linear-gradient(red,yellow);
+}
+.login_div{
+    border:1px solid rgb(0, 255, 234);
+    padding:30px;
+    border-style: ridge;
+    border-width: 70px;
+}
+h1,h4{
+    color: blue;
+}
+
+
